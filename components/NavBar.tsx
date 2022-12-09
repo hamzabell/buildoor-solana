@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css';
 import { HStack, Spacer } from '@chakra-ui/react';
 import dynamic  from 'next/dynamic';
 
+
 const WalletMultiButtonDynamic = dynamic(
     async () => (await (await import('@solana/wallet-adapter-react-ui')).WalletMultiButton),
     { ssr: false }

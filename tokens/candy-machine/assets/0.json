@@ -1,0 +1,24 @@
+{
+    "name": "Buildoor #1",
+    "symbol": "BLD",
+    "description": "The nerdy buildoor",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "hair",
+            "value": "black"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

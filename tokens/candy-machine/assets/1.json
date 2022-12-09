@@ -1,0 +1,20 @@
+{
+    "name": "Buildoor #2",
+    "symbol": "BLD",
+    "description": "The devilish buildoor",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "horns"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

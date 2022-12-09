@@ -1,0 +1,15 @@
+{
+    "name": "Buildoor Collection",
+    "symbol": "BLD",
+    "description": "Collection of buildoors",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
